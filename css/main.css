@@ -1,0 +1,10 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.containter{
+    width: 200;
+    height: 300;
+    border: 2px blue solid; 
+}
